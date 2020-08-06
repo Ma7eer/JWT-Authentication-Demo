@@ -1,6 +1,6 @@
 # JWT-Authentication-Demo
 
-## Setup Mono Repo
+## STEP 1: Setup Mono Repo
 
 ### Client
 
@@ -15,3 +15,8 @@
 - create `index,js`
 - start a server on any port
 - create a `.gitignore` file so we don't push node_modules folder to github
+
+## STEP 2: build the forms
+
+- Build the sign up and log in form using `jsx`
+- style the forms using `css-in-js`
