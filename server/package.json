@@ -1,0 +1,14 @@
+{
+  "name": "jwt-server",
+  "version": "1.0.0",
+  "description": "A demo server to display jwt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maher Alkendi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
